@@ -1,3 +1,3 @@
 # Staff Evaluation System
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/gkontogiannhs/StaffEvaluation/blob/main/ERDiagramm.png)
