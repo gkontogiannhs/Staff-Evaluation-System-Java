@@ -30,7 +30,7 @@ The Administrators of the system that implements the staff evaluation. Also, adm
 - Read and update the employee's file
 - Given an employee name, display a list of all the applications, the final evaluations completed and the evaluators info respected.
 
-## The Manager can:
+## The Evaluator can:
 - View and edit his/her account information
 - Have access to the information of the promotion positions of the company
 - Add a new promotion position by entering all the necessary information
